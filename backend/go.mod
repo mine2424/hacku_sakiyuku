@@ -7,7 +7,8 @@ require (
 	github.com/go-playground/validator/v10 v10.11.2
 	github.com/joho/godotenv v1.5.1
 	github.com/sirupsen/logrus v1.9.0
-	github.com/swaggo/files v1.0.0
+	github.com/swaggo/files v0.0.0-20220728132757-551d4a08d97a
+	github.com/swaggo/files/v2 v2.0.2
 	github.com/swaggo/gin-swagger v1.5.3
 	golang.org/x/crypto v0.7.0
 	gorm.io/driver/mysql v1.4.7
