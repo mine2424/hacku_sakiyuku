@@ -87,7 +87,7 @@
         "storybook-addon-turbo-build": "^1.1.0",
         "storybook-dark-mode": "^2.1.1",
         "ts-jest": "^29.0.5",
-        "typescript": "5.0.2"
+        "typescript": "5.8.2"
     },
     "lint-staged": {
         "./src/*.{ts,tsx}": [
